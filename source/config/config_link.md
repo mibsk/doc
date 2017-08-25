@@ -35,7 +35,7 @@ valides sont :
 -   [PRINTERMODEL] : model tlačiarne
 -   [SOFTWARECATEGORY] : kategória softvéru
 
-![alt text](image/res.extLinks.png)
+![alt text](../../image/res.extLinks.png)
 
 Chaque lien peut être associé à un ou plusieurs types d'élément.
 
