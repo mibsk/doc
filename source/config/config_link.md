@@ -27,6 +27,13 @@ valides sont :
 -   [GROUP] : groupe associé au matériel.
 -   [FIRSTNAME] : prénom de l'utilisateur (que pour les utilisateurs)
 -   [REALNAME] : nom de l'utilisateur (que pour les utilisateurs)
+-   [DEVICETYPE] : typ zariadenia
+-   [DEVICEMODEL] : model zariadenia
+-   [NETWORKTYPE] : typ sieťového zariadenia
+-   [NETWORKMODEL] : model sieťového zariadania 
+-   [PRINTERTYPE] : typ tlačiarne
+-   [PRINTERMODEL] : model tlačiarne
+-   [SOFTWARECATEGORY] : kategória softvéru
 
 Chaque lien peut être associé à un ou plusieurs types d'élément.
 
